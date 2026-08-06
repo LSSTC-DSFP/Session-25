@@ -91,6 +91,6 @@ Friday, June 12, 2026
 * 11:15 AM – 12:00 PM o Hack Session
 * 12:00 PM – 12:30 PM o Hack Sharebacks
 * 12:30 PM – 02:00 PM o LUNCH
-* 02:00 PM – 03:00 PM o Developing Ethical AI Models; L Cheng
-* 03:00 PM – 04:00 PM o Problem: Case Studies; L Cheng
+* 02:00 PM – 03:00 PM o [Socially Responsible AI 101](Day5/SociallyResponsibleAI101.pdf); L Cheng
+* 03:00 PM – 04:00 PM o [[Problem 1](https://colab.research.google.com/github/GitHubLuCheng/CP-tutorial/blob/main/TP_cp_init_student_version.ipynb) | [Solution 1](https://github.com/GitHubLuCheng/CP-tutorial/blob/main/TP_cp.ipynb)]  [[Problem 2](https://colab.research.google.com/github/GitHubLuCheng/CP-tutorial/blob/main/TP_cp_classif_init_student_version.ipynb) | [Solution 2](https://github.com/GitHubLuCheng/CP-tutorial/blob/main/TP_cp_classif.ipynb)]: Conformal Prediction; L Cheng
 * 04:00 PM – 04:30 PM o Meeting Wrap Up
